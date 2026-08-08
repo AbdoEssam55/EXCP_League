@@ -1,0 +1,35 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Build
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## VS
+.vs/
+*.csproj.user
+*.dbmdl
+*.jfm
+
+## Rider
+.idea/
+*.sln.iml
+
+## User uploads
+wwwroot/uploads/
+
+## OS
+.DS_Store
+Thumbs.db
