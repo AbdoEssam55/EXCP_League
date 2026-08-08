@@ -239,4 +239,4 @@ Edit `src/ExcpFootball.Api/appsettings.json`:
 
 ---
 
-*Built for the EXCP team internal 5v5 football league* ⚽🏆
+*Built for the EXCP 5v5 football league* ⚽🏆
