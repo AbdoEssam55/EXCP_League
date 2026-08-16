@@ -143,7 +143,7 @@ The import expects these columns:
 | Column | Required | Example |
 |--------|----------|---------|
 | PlayerName | Yes | Mohamed Hamed |
-| NickName | No | الجناح الخارق |
+| NickName | No | الجناح الطائر |
 | Number | Yes | 8 |
 | Position | Yes | LW |
 | Overall | No | 91 |
